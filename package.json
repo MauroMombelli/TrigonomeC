@@ -1,0 +1,8 @@
+{
+  "name": "TrigonomeC",
+  "version": "0.0.1",
+  "repo": "MauroMombelli/TrigonomeC",
+  "description": "Helper trigonometry function",
+  "keywords": ["trigonometry", "quaternion", "vector", "3d"],
+  "license": "LGPL",
+}
