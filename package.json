@@ -4,5 +4,5 @@
   "repo": "MauroMombelli/TrigonomeC",
   "description": "Helper trigonometry function",
   "keywords": ["trigonometry", "quaternion", "vector", "3d"],
-  "license": "LGPL",
+  "license": "LGPL"
 }
