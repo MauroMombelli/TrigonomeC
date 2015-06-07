@@ -4,5 +4,6 @@
   "repo": "MauroMombelli/TrigonomeC",
   "description": "Helper trigonometry function",
   "keywords": ["trigonometry", "quaternion", "vector", "3d"],
+  "src": ["my_math.c","my_math.h","quaternionf.h","vector3f.h","vector3i16.h"],
   "license": "LGPL"
 }
